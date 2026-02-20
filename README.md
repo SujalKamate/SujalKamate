@@ -98,22 +98,17 @@ Vercel • Render • Railway
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SujalKamate&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SujalKamate&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalKamate&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalKamate&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SujalKamate&theme=tokyonight" />
 </p>
 ---
-
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/SujalKamate/SujalKamate/blob/main/dist/github-snake.svg)
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn: https://linkedin.com/in/sujal-kamate-66391a2ba  
