@@ -1,21 +1,31 @@
-<h1 align="center">Hi 👋, I'm Sujal Kamate</h1>
+<h1 align="center">Hi 👋 I'm Sujal Kamate</h1>
+<h3 align="center">Aspiring AI Engineer | 5× Hackathon Finalist | Intel Unnati Trainee</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+AI+Engineer;5x+Hackathon+Finalist;Intel+Unnati+Trainee;FastAPI+%7C+RAG+%7C+Agentic+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer+Aspirant;FastAPI+%7C+RAG+%7C+Agentic+AI;50%2B+Hackathons;ACM+AI+Domain+Lead" />
 </p>
-<h3 align="center">Aspiring AI Engineer | 5× Hackathon Finalist | Intel Unnati Trainee</h3>
 
 ---
 
-## 🎓 About Me
-- 🎓 2nd Year B.E. Computer Engineering Student @ PCET’s NMIET Pune  
-- 📊 CGPA: **8.83**  
-- 🤖 Passionate about **AI, Agentic AI, RAG Systems, ML & Full Stack Development**  
-- 🏆 Participated in **50+ Hackathons** as Team Leader & AI/Backend Developer  
-- 🚀 Selected for **Intel® Unnati Industrial Training Program 2025**  
-- 👨‍🏫 AI Domain Lead @ **ACM Student Chapter NMIET**  
-- 💡 Technical Lead @ **GDG NMIET & Technical Clubs**
-- 
+## 💫 About Me
+🎓 2nd Year B.E. Computer Engineering @ PCET’s NMIET Pune (CGPA **8.83**)  
+🤖 Passionate about **AI, Agentic AI, RAG Systems, ML & Full Stack Development**  
+🏆 **5× Hackathon Finalist** & Participated in **50+ Hackathons**  
+🚀 Intel Unnati Industrial Training – Built Multilingual NCERT Hybrid RAG System  
+👨‍🏫 AI Domain Lead @ ACM NMIET | Technical Lead @ GDG NMIET  
+
+---
+
+## 🚀 Major Projects
+🔹 **NCERT Hybrid RAG Doubt Solver** – Multilingual RAG with OCR & Voice  
+🔹 **AGRIXAI** – YOLO Crop Detection + RAG + Agentic AI Planning  
+🔹 **TRINETRA** – Geological Monitoring System (SIH Project)  
+🔹 **SENTINEL-X** – Proactive Cyber Threat Prediction  
+🔹 **Learner AI** – AI Mind-Map Learning Assistant  
+
+---
+
+## 💻 Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/Python-blue?logo=python"/>
 <img src="https://img.shields.io/badge/FastAPI-green?logo=fastapi"/>
@@ -23,85 +33,51 @@
 <img src="https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow"/>
 <img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch"/>
 <img src="https://img.shields.io/badge/Docker-blue?logo=docker"/>
+<img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql"/>
+<img src="https://img.shields.io/badge/LangChain-purple"/>
+<img src="https://img.shields.io/badge/HuggingFace-yellow"/>
 </p>
----
-
-## 🚀 Major AI Projects
-
-### 📘 NCERT Hybrid RAG Doubt Solver – Intel Unnati
-Multilingual AI system using Hybrid Retrieval + RAG with OCR & Voice support.
-
-### 🌾 AGRIXAI – Modular AI Agriculture Assistant
-YOLO crop detection + RAG agriculture knowledge + Agentic AI planning.
-
-### 🌍 TRINETRA – Geological Event Monitoring System
-Real-time sensor monitoring for landslide risk prediction (SIH Project).
-
-### 🛡️ SENTINEL-X – Cyber Threat Anticipation System
-Behaviour-based cybersecurity AI predicting attacks using log analysis.
-
-### 🧠 Learner AI – Mind-Map Learning Assistant
-AI system converting study material into structured mind maps.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-Python • C++ • Java • JavaScript • SQL • HTML • CSS  
-
-### 🤖 AI / ML
-PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy  
-LangChain • HuggingFace • Ollama • RAG Systems  
-
-### 🌐 Web & Backend
-FastAPI • React • Node.js • Next.js  
-
-### 🗄️ Databases
-PostgreSQL • MySQL • ChromaDB • FAISS  
-
-### ⚙️ Tools
-Git • GitHub • Docker • VS Code • Figma • Canva  
-Vercel • Render • Railway  
-
-
-## 🛠️ Skills
-
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
 
 ---
 
 ## 🏆 Achievements
-- ⭐ **5× Hackathon Finalist**  
-- ⭐ Participated in **50+ National & International Hackathons**  
-- ⭐ Selected for **Intel Unnati AI Industrial Training**  
-- ⭐ AI Domain Lead – ACM NMIET  
-- ⭐ Organized **50+ Technical Workshops & AI Sessions**  
+⭐ 5× Hackathon Finalist  
+⭐ Intel Unnati Industrial Training Selected  
+⭐ Organized 50+ Technical Workshops  
+⭐ AI Domain Lead – ACM NMIET  
 
 ---
 
-## 👨‍🏫 Leadership & Volunteering
-- Mentored **10+ hackathon teams** in AI & Full Stack  
-- Organized workshops for **500+ students** via ACM & GDG  
-- Assisted as technical speaker & session mentor  
-- Part of design team creating event posters & graphics  
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SujalKamate&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalKamate&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+<img src="https://streak-stats.demolab.com?user=SujalKamate&theme=tokyonight"/>
+</p>
 
 ---
 
----
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=SujalKamate&theme=dark" />
-
-## 📫 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/sujal-kamate-66391a2ba  
-- 💻 LeetCode: https://leetcode.com/u/EKjmM13shb/  
-- 📧 Email: sujalvkamate@gmail.com  
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SujalKamate&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ **Looking for AI Internships, Research Opportunities, and Hackathon Teams!**
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/SujalKamate/SujalKamate/main/dist/github-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/sujal-kamate-66391a2ba"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/></a>
+<a href="mailto:sujalvkamate@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail"/></a>
+<a href="https://leetcode.com/u/EKjmM13shb/"><img src="https://img.shields.io/badge/LeetCode-orange"/></a>
+</p>
+
+---
+
+⭐ **Looking for AI Internships, Research Opportunities & Hackathon Teams!**
