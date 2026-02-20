@@ -56,20 +56,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SujalKamate&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/SujalKamate/SujalKamate/main/dist/github-snake.svg"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/sujal-kamate-66391a2ba"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/></a>
