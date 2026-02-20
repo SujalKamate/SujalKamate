@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sujal Kamate</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+AI+Engineer;5x+Hackathon+Finalist;Intel+Unnati+Trainee;FastAPI+%7C+RAG+%7C+Agentic+AI" />
+</p>
 <h3 align="center">Aspiring AI Engineer | 5× Hackathon Finalist | Intel Unnati Trainee</h3>
 
 ---
@@ -10,8 +14,16 @@
 - 🏆 Participated in **50+ Hackathons** as Team Leader & AI/Backend Developer  
 - 🚀 Selected for **Intel® Unnati Industrial Training Program 2025**  
 - 👨‍🏫 AI Domain Lead @ **ACM Student Chapter NMIET**  
-- 💡 Technical Lead @ **GDG NMIET & Technical Clubs**  
-
+- 💡 Technical Lead @ **GDG NMIET & Technical Clubs**
+- 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-blue?logo=python"/>
+<img src="https://img.shields.io/badge/FastAPI-green?logo=fastapi"/>
+<img src="https://img.shields.io/badge/React-blue?logo=react"/>
+<img src="https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow"/>
+<img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch"/>
+<img src="https://img.shields.io/badge/Docker-blue?logo=docker"/>
+</p>
 ---
 
 ## 🚀 Major AI Projects
@@ -83,14 +95,19 @@ Vercel • Render • Railway
 ---
 
 ---
-
 ## 📊 GitHub Stats
 
-![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujalKamate&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SujalKamate&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujalKamate&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalKamate&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SujalKamate&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SujalKamate&theme=tokyonight" />
+</p>
 ---
 
 
