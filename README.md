@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computers/Laptop.png" width="40" /> 
-  SUJAL KAMATE | NEURAL SYSTEMS ARCHITECT<h1 align="center">
+ 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computers/Desktop%20Computer.png" width="40" /> 
   SUJAL KAMATE | AI SYSTEMS ENGINEER
 </h1>
