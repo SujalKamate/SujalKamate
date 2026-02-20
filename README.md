@@ -52,6 +52,17 @@ PostgreSQL • MySQL • ChromaDB • FAISS
 Git • GitHub • Docker • VS Code • Figma • Canva  
 Vercel • Render • Railway  
 
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+
 ---
 
 ## 🏆 Achievements
@@ -71,11 +82,15 @@ Vercel • Render • Railway
 
 ---
 
+---
+
 ## 📊 GitHub Stats
+
 ![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujalKamate&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujalKamate&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=SujalKamate&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
