@@ -50,8 +50,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SujalKamate&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalKamate&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=SujalKamate&theme=dark"/>
 <img src="https://streak-stats.demolab.com?user=SujalKamate&theme=tokyonight"/>
 </p>
 
