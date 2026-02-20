@@ -93,6 +93,11 @@ Vercel • Render • Railway
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SujalKamate&theme=tokyonight)
 ---
 
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/SujalKamate/SujalKamate/blob/main/dist/github-snake.svg)
+
 ## 📫 Connect With Me
 - 🔗 LinkedIn: https://linkedin.com/in/sujal-kamate-66391a2ba  
 - 💻 LeetCode: https://leetcode.com/u/EKjmM13shb/  
