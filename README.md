@@ -1,71 +1,77 @@
-<h1 align="center">Hi 👋 I'm Sujal Kamate</h1>
-<h3 align="center">AI Systems Engineer | RAG & Agentic AI Specialist | 5× Hackathon Finalist</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computers/Laptop.png" width="40" /> 
+  SUJAL KAMATE | NEURAL SYSTEMS ARCHITECT
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Specializing+in+Hybrid+RAG+Systems;Agentic+AI+Workflows;Intel+Unnati+Trainee;AI+Domain+Lead+@+ACM" />
+  <a href="https://linkedin.com/in/sujal-kamate-66391a2ba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sujalvkamate@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/EKjmM13shb/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=CORE:+Agentic+AI+|+RAG+Architect;STACK:+FastAPI+|+LangChain+|+PyTorch;OPS:+Intel+Unnati+Trainee+|+ACM+AI+Lead;STATUS:+Seeking+AI+Research+Internships" />
 </p>
 
 ---
 
-## 🧠 Core Architecture
-* [cite_start]**Specialization**: Building scalable, intelligent systems using **Agentic AI**, **Generative AI**, and **Retrieval-Augmented Generation (RAG)**[cite: 9, 12, 16].
-* **Education**: 2nd Year B.E. [cite_start]Computer Engineering @ PCET’s NMIET Pune (**CGPA 8.83**)[cite: 9, 56, 57].
-* [cite_start]**Leadership**: **AI Domain Lead** at ACM Student Chapter & **Technical Lead** at GDG NMIET[cite: 11, 81, 86].
-* [cite_start]**Hackathon Veteran**: Participated in **50+ hackathons** with **5 successful finalist appearances**[cite: 11, 68, 69].
+## ⚡ Technical DNA
+* [cite_start]**Specialization:** Engineering autonomous **Agentic Workflows** and **Hybrid Retrieval-Augmented Generation (RAG)** systems[cite: 9, 12, 16].
+* **Academic Foundation:** 2nd Year B.E. [cite_start]Computer Engineering @ **PCET’s NMIET Pune** (Current CGPA: **8.83**)[cite: 9, 56, 57].
+* [cite_start]**Computation Strength:** Lead Backend & AI/ML Developer for **50+ Hackathon builds**, specializing in scalable intelligent architectures[cite: 11, 71].
 
 ---
 
-## 🚀 Featured Neural Projects
+## 🚀 Mission Logs: High-Impact Projects
 
-### 🤖 [Intel Unnati] Multilingual NCERT Hybrid RAG
-[cite_start]*Developed under the guidance of Dr. Renuka Goud & Dr. Renuka Kajale[cite: 24].*
-- [cite_start]**Architecture**: Hybrid RAG using **dense semantic retrieval** (multilingual-e5) and **sparse TF-IDF search**[cite: 26, 32].
-- [cite_start]**Capabilities**: Multimodal input (Text, OpenCV + Tesseract OCR, Whisper Voice-to-Text) for Classes 5-10[cite: 27, 33, 35].
-- [cite_start]**Engine**: Grounded answer generation using **Mistral LLM** via **Ollama** with strict context prompting[cite: 28, 34].
+### 🤖 [Intel Unnati] Hybrid Multilingual RAG
+> [cite_start]*Advanced educational query engine developed under Intel Unnati Industrial Training[cite: 10, 20].*
+- [cite_start]**The Core:** Implemented dense semantic retrieval using `multilingual-e5` and sparse `TF-IDF` search[cite: 26, 32].
+- [cite_start]**Vector Ops:** Managed embeddings via **ChromaDB** with **MMR (Maximal Marginal Relevance)** re-ranking for grounded answer precision.
+- [cite_start]**Interface:** Built multimodal pipelines supporting text, **OCR (OpenCV + Tesseract)**, and **Voice (Whisper)**[cite: 27, 33].
 
-### 🌾 AGRIXAI - Modular Agriculture Agent
-- [cite_start]**Logic**: A modular system combining **YOLOv8** for disease detection with **Agentic AI** for strategic planning[cite: 40].
-- [cite_start]**Memory**: **FAISS vector retrieval** from government documents to provide verified farming recommendations[cite: 40, 41].
 
-### 🗺️ Learner AI - Mind Map Assistant
-- [cite_start]**Function**: Converts dense study materials into structured visual mind maps using **NLP-based summarization** pipelines[cite: 37, 38].
 
----
+### 🌾 AGRIXAI: Agentic Agriculture System
+- [cite_start]**Intelligence Layer:** Coupled **YOLOv8** computer vision with a **LangChain Agent** for autonomous strategic planning[cite: 40].
+- [cite_start]**Knowledge Base:** Built a **FAISS** vector store from government data to provide fault-tolerant farming recommendations[cite: 41, 42].
 
-## 💻 Technical Arsenal
-
-| Layer | Tools & Technologies |
-| :--- | :--- |
-| **AI/ML Frameworks** | [cite_start]LangChain, Hugging Face, TensorFlow, PyTorch, Scikit-learn [cite: 15] |
-| **Generative AI** | [cite_start]RAG, Agentic AI, NLP, Mistral, Gemini AI, Ollama [cite: 16, 28, 48] |
-| **Languages** | [cite_start]Python (Advanced), C++, JavaScript, SQL, Java [cite: 14] |
-| **Data & Storage** | [cite_start]PostgreSQL, ChromaDB, FAISS, MySQL [cite: 17, 31, 40] |
-| **Backend & DevOps** | [cite_start]FastAPI, Node.js, Docker, Git, Vercel, Railway [cite: 15, 18] |
+### 🛡️ SENTINEL-X: Cyber-Threat Prediction
+- [cite_start]**Logic:** Behavioral-based system predicting threats via system log analysis[cite: 51].
+- [cite_start]**Validation:** Simulated attacks using Kali Linux tools (**Nmap/Hydra**) to tune anomaly detection accuracy[cite: 52, 53].
 
 ---
 
-## 🏆 Mission Logs & Achievements
-- [cite_start]⭐ **5× Hackathon Finalist**: Mumbai Hacks, Project Morphus, and more[cite: 69, 95].
-- [cite_start]⭐ **Mentor & Speaker**: Mentored **10+ teams** and delivered talks on **GenAI & RAG** to 500+ students[cite: 83, 84, 101].
-- [cite_start]⭐ **Academic Excellence**: Ranked 1st in school (SSC) with **92.8%**[cite: 61, 62].
+## 🛠️ The Tech Stack (Arsenal)
+
+### 🧠 Intelligence & Models
+[cite_start]`LangChain` `LlamaIndex` `HuggingFace` `TensorFlow` `PyTorch` `Mistral` `Gemini AI` `Ollama` [cite: 15, 16, 28, 48]
+
+### 🏗️ Infrastructure & Backend
+[cite_start]`Python (Expert)` `FastAPI` `Node.js` `Docker` `PostgreSQL` `ChromaDB` `FAISS` [cite: 14, 15, 17, 18, 31, 40]
+
+### 🌐 Frontend & Deployment
+[cite_start]`React` `Next.js` `Tailwind CSS` `Vercel` `Render` `Railway` [cite: 15, 18, 44]
 
 ---
 
-## 📊 Neural Activity
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SujalKamate&show_icons=true&theme=tokyonight&count_private=true" alt="Sujal's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalKamate&theme=tokyonight" alt="GitHub Streak" />
+## 🏆 Proof of Concept (Achievements)
+* [cite_start]**Finalist @ Mumbai Hacks & Project Morphus:** Ranked in the top tier of national-level AI competitions[cite: 69, 95].
+* [cite_start]**AI Domain Lead (ACM NMIET):** Leading a community of 500+ students in ML and GenAI exploration[cite: 86, 88].
+* [cite_start]**Technical Lead (GDG NMIET):** Architected and evaluated 10+ student teams during **Cyberathon 2026**[cite: 81, 85].
+* [cite_start]**Industrial Trainee:** Selected for **Intel® Unnati 2025** to build industry-grade RAG solutions[cite: 20, 97].
+
+---
+
+## 📊 Performance Metrics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=SujalKamate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Sujal's Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalKamate&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌐 Secure Uplink
 <p align="center">
-<a href="https://linkedin.com/in/sujal-kamate-66391a2ba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sujalvkamate@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/EKjmM13shb/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
-
-<p align="center">
-  <b>Looking for AI Internships & Research Opportunities!</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="30" /> 
+  <b>Open for Collaboration on AI Research & Scalable Intelligent Systems.</b>
 </p>
