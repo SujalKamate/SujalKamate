@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="2864508.png" width="40" />
+  <img src="2864508.png" width="100%" />
   SUJAL KAMATE | AI SYSTEMS ENGINEER
 </h1>
 
