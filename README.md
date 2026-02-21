@@ -1,5 +1,8 @@
-<h1 align="center">
-  <img src="2864508.png" width="100%" />
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
+<h1 align="center" style="margin-top:-120px; color:white;">
   SUJAL KAMATE | AI SYSTEMS ENGINEER
 </h1>
 
