@@ -1,23 +1,36 @@
-<p align="center">
-  <img src="2864508.png" width="100%" />
-</p>
+<table>
+<tr>
+<td>
 
-<h1 align="center" style="margin-top:-120px; color:white;">
-  SUJAL KAMATE | AI SYSTEMS ENGINEER
+<img src="2864508.png" width="100%" />
+
+<h1 align="center" style="margin-top:-170px; color:white;">
+SUJAL KAMATE | AI SYSTEMS ENGINEER
 </h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sujal-kamate-66391a2ba">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sujalvkamate@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/EKjmM13shb/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+<p align="center" style="margin-top:-10px;">
+<a href="https://linkedin.com/in/sujal-kamate-66391a2ba">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sujalvkamate@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/EKjmM13shb/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
 
+<p align="center" style="margin-top:-5px; color:#00FFFF;">
+AI Domain Lead • Intel Unnati Trainee • 5× Hackathon Finalist
+</p>
+
+<br><br><br><br><br>
+
+</td>
+</tr>
+</table>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Architecting+Agentic+AI+Systems;Hybrid+RAG+Specialist;Intel+Unnati+Industrial+Trainee;AI+Domain+Lead+@+ACM+NMIET" />
 </p>
