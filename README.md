@@ -1,115 +1,120 @@
-<table>
-<tr>
-<td>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=170&section=header&animation=fadeIn"/>
+</p>
 
-<img src="2864508.png" width="100%" />
+<h2 align="center">Sujal Kamate</h2>
+<p align="center"><i>AI Systems Engineer · Agentic AI Architect</i></p>
 
-<h1 align="center" style="margin-top:-170px; color:white;">
-SUJAL KAMATE | AI SYSTEMS ENGINEER
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Agentic+AI+Architect;Hybrid+RAG+Engineer;Multimodal+AI+Builder;Intel+Unnati+Industrial+Trainee" />
+</p>
 
-<p align="center" style="margin-top:-10px;">
+---
+
+## ✦ Identity
+
+<p align="center">
+🎓 Computer Engineering @ NMIET Pune (CGPA 8.83)  
+🧠 AI Domain Lead @ ACM · Technical Lead @ GDG  
+🏆 5× Hackathon Finalist · Intel Unnati Trainee
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Agentic_AI-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hybrid_RAG-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multimodal_AI-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Systems-0f172a?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=LangChain+%7C+FAISS+%7C+ChromaDB;Mistral+%7C+Ollama+%7C+Gemini;TensorFlow+%7C+PyTorch+%7C+NLP" />
+</p>
+
+---
+
+## ✦ Projects
+
+### Intel Unnati – Multilingual NCERT Hybrid RAG
+
+Hybrid retrieval using multilingual-e5 dense search + TF-IDF sparse search with ChromaDB, multimodal ingestion (OCR + voice), grounded generation via Mistral.
+
+### AGRIXAI – Agentic Agriculture Platform
+
+YOLOv8 crop disease detection with LangChain agents and FAISS retrieval from agriculture datasets.
+
+### SENTINEL-X – Cyber Threat Prediction
+
+Behaviour-based threat detection system using system log analysis and simulated attacks via Kali Linux tools.
+
+### TRINETRA – Geological Monitoring System
+
+FastAPI + Next.js dashboard predicting landslide risk using simulated seismic and rainfall sensor streams.
+
+### Learner AI – Mind Map Assistant
+
+AI learning system converting educational content into structured mind maps.
+
+---
+
+## ✦ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,postgres,mysql,fastapi,nodejs,docker,git,tensorflow,pytorch&perline=6"/>
+</p>
+
+---
+
+## ✦ Achievements
+
+* ⭐ Intel Unnati AI Industrial Training Program 2025
+* ⭐ 5× Hackathon Finalist
+* ⭐ Mentored and organized 50+ technical workshops
+* ⭐ Delivered AI sessions to 500+ students
+
+---
+
+## ✦ GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SujalKamate&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## ✦ GitHub Analytics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujalKamate&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujalKamate&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SujalKamate&theme=tokyonight"/>
+</p>
+
+---
+
+## ✦ Connect
+
+<p align="center">
 <a href="https://linkedin.com/in/sujal-kamate-66391a2ba">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sujalvkamate@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/EKjmM13shb/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SujalKamate">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
-<p align="center" style="margin-top:-5px; color:#00FFFF;">
-AI Domain Lead • Intel Unnati Trainee • 5× Hackathon Finalist
-</p>
-
-<br><br><br><br><br>
-
-</td>
-</tr>
-</table>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Architecting+Agentic+AI+Systems;Hybrid+RAG+Specialist;Intel+Unnati+Industrial+Trainee;AI+Domain+Lead+@+ACM+NMIET" />
-</p>
-
----
-
-# ⚙️ Engineering Profile
-
-- 🎓 **2nd Year B.E. Computer Engineering** @ PCET’s NMIET Pune (CGPA **8.83**)  
-- 🤖 Focused on **Agentic AI, Generative AI, and Hybrid RAG Systems**  
-- 🧠 AI Domain Lead @ ACM NMIET | Technical Lead @ GDG NMIET  
-- 🏆 **5× Hackathon Finalist** across 50+ competitions (Mumbai Hacks, Project Morphus, etc.)  
-- 🚀 Selected for **Intel® Unnati Industrial Training Program 2025**
-
----
-
-# 🧠 Neural Projects
-
-## 🤖 Intel Unnati – Multilingual NCERT Hybrid RAG
-- Hybrid RAG with **dense retrieval (multilingual-e5)** + **TF-IDF sparse search** using ChromaDB  
-- Multimodal pipeline: **Text + OCR (OpenCV/Tesseract) + Voice (Whisper)**  
-- Grounded generation using **Mistral via Ollama** with MMR re-ranking  
-
-## 🌾 AGRIXAI – Modular Agentic Agriculture Platform
-- YOLOv8 crop disease detection  
-- Agentic AI planning using LangChain  
-- FAISS vector retrieval from government agriculture datasets  
-
-## 🛡️ SENTINEL-X – Proactive Cyber Threat Prediction
-- Behaviour-based cybersecurity engine using system log analysis  
-- Validated attacks using Kali Linux tools (Nmap, Hydra)  
-
-## 🌍 TRINETRA – Geological Monitoring System
-- FastAPI + Next.js dashboard for landslide risk prediction  
-- Real-time sensor simulation for seismic & rainfall monitoring  
-
-## 🧠 Learner AI – Mind-Map Learning Assistant
-- AI system converting study material into structured learning mind maps  
-
----
-
-# 🛠️ Technical Arsenal
-
-### 🤖 AI / ML
-LangChain • HuggingFace • TensorFlow • PyTorch • Scikit-learn • NLP  
-
-### ⚡ Generative AI & RAG
-Agentic AI • Hybrid RAG • ChromaDB • FAISS • Mistral • Ollama • Gemini AI  
-
-### 💻 Languages & Databases
-Python • C++ • Java • JavaScript • SQL • PostgreSQL • MySQL  
-
-### 🌐 Backend & DevOps
-FastAPI • Node.js • Docker • Git • Vercel • Render • Railway  
-
----
-
-# 🏆 Key Achievements
-- ⭐ Selected for **Intel Unnati AI Industrial Training**  
-- ⭐ **5× Hackathon Finalist**  
-- ⭐ Organized & mentored **50+ technical workshops**  
-- ⭐ Led AI sessions for **500+ students**  
-
----
-
-# 📊 System Stats
-<p align="center">
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=SujalKamate&theme=dark"/>
-</p>
-
----
-
-# ⚡ System Status
-- 🔭 Currently building advanced **Agentic AI automation workflows**
-- 💬 Ask me about **RAG systems, vector databases, autonomous agents**
-- 📫 Secure uplink → **sujalvkamate@gmail.com**
-
 ---
 
 <p align="center">
-<b>🚀 Open for AI Internships, Research Opportunities & Hackathon Collaborations</b>
+<i>
+Exploring intelligence, architecting AI systems, and pushing research into real-world deployment.
+</i>
 </p>
