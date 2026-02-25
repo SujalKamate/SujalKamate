@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Sujal Kamate</h2>
-<p align="center"><i>AI Systems Engineer · Agentic AI Architect</i></p>
+<p align="center"><i>AI Systems Engineer · Agentic AI Architect · Hybrid RAG Developer</i></p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Agentic+AI+Architect;Hybrid+RAG+Engineer;Multimodal+AI+Builder;Intel+Unnati+Industrial+Trainee" />
@@ -14,9 +14,15 @@
 ## ✦ Identity
 
 <p align="center">
-🎓 Computer Engineering @ NMIET Pune (CGPA 8.83)  
-🧠 AI Domain Lead @ ACM · Technical Lead @ GDG  
-🏆 5× Hackathon Finalist · Intel Unnati Trainee
+I am Sujal Kamate, a 2nd-year Computer Engineering student at PCET’s NMIET Pune (CGPA 8.83) and an aspiring AI Systems Engineer focused on building real-world intelligent systems.
+
+I specialize in:
+
+• Agentic AI  
+• Hybrid Retrieval-Augmented Generation  
+• Multimodal AI Systems  
+• FastAPI AI Backends  
+• Scalable Full-Stack AI Applications  
 </p>
 
 <p align="center">
@@ -34,42 +40,57 @@
 
 ## ✦ Projects
 
-### Intel Unnati – Multilingual NCERT Hybrid RAG
+##  Intel Unnati – Multilingual NCERT Hybrid RAG
+• Hybrid Retrieval using multilingual-e5 dense + TF-IDF sparse search  
+• Multimodal pipeline: Text + OCR (OpenCV + Tesseract) + Voice (Whisper)  
+• Context-grounded answers using Mistral via Ollama  
+• Grade-specific filtering for NCERT Classes 5-10  
 
-Hybrid retrieval using multilingual-e5 dense search + TF-IDF sparse search with ChromaDB, multimodal ingestion (OCR + voice), grounded generation via Mistral.
+## AGRIXAI – Agentic Agriculture Platform
+• YOLOv8 crop disease detection  
+• LangChain agents for automated agriculture decision-making  
+• FAISS retrieval from government datasets  
 
-### AGRIXAI – Agentic Agriculture Platform
+## ISS Cargo Management System
+• FastAPI + PostgreSQL backend  
+• Placement optimization algorithms  
+• Waste planning & time simulation  
+• Docker-deployable API system  
 
-YOLOv8 crop disease detection with LangChain agents and FAISS retrieval from agriculture datasets.
+##  Learner AI – Mind-Map Learning System
+• Converts study material into AI-generated mind maps  
+• Built to help slow learners become fast learners  
+• Designed for multilingual education  
 
-### SENTINEL-X – Cyber Threat Prediction
+##  SENTINEL-X – Cyber Threat Prediction
+• Behaviour-based anomaly detection  
+• Simulated attacks using Kali Linux tools  
+• AI-driven threat anticipation  
 
-Behaviour-based threat detection system using system log analysis and simulated attacks via Kali Linux tools.
-
-### TRINETRA – Geological Monitoring System
-
-FastAPI + Next.js dashboard predicting landslide risk using simulated seismic and rainfall sensor streams.
-
-### Learner AI – Mind Map Assistant
-
-AI learning system converting educational content into structured mind maps.
+##  TRINETRA – Geological Monitoring System
+• FastAPI + Next.js dashboard  
+• Landslide risk prediction  
+• Real-time simulated sensor data 
 
 ---
 
 ## ✦ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,postgres,mysql,fastapi,nodejs,docker,git,tensorflow,pytorch&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,nextjs,nodejs,fastapi,docker,git,github,postgres,mongodb,mysql,tensorflow,pytorch,opencv,sklearn,aws,gcp,vercel,render,tailwind&perline=8"/>
 </p>
 
 ---
 
-## ✦ Achievements
+# ✦ Leadership & Achievements
 
-* ⭐ Intel Unnati AI Industrial Training Program 2025
-* ⭐ 5× Hackathon Finalist
-* ⭐ Mentored and organized 50+ technical workshops
-* ⭐ Delivered AI sessions to 500+ students
+•  **AI Domain Lead – ACM NMIET**  
+•  **Technical Lead – GDG NMIET**  
+•  **5× National Hackathon Finalist**  
+•  **Intel® Unnati Industrial Training Program 2025**  
+•  Mentored 50+ workshops & 500+ students  
+•  Preparing for Smart India Hackathon  
+
 
 ---
 
@@ -115,6 +136,6 @@ AI learning system converting educational content into structured mind maps.
 
 <p align="center">
 <i>
-Exploring intelligence, architecting AI systems, and pushing research into real-world deployment.
+Building intelligent systems that learn, adapt, and solve real-world problems.
 </i>
 </p>
