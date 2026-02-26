@@ -111,6 +111,21 @@ I specialize in:
 </p>
 
 ---
+## ✦ Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SujalKamate&theme=tokyo-night"/>
+</p>
+
+---
+
+## ✦ LeetCode
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/EKjmM13shb?theme=dark&ext=contest"/>
+</p>
+
+---
 
 
 ## ✦ Connect
