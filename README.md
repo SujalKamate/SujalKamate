@@ -18,11 +18,13 @@ I am Sujal Kamate, a 2nd-year Computer Engineering student at PCET’s NMIET Pun
 
 I specialize in:
 
-• Agentic AI  
-• Hybrid Retrieval-Augmented Generation  
-• Multimodal AI Systems  
-• FastAPI AI Backends  
-• Scalable Full-Stack AI Applications  
+• Agentic AI
+• Hybrid Retrieval-Augmented Generation (RAG)
+• Multimodal AI Systems
+• FastAPI AI Backends
+• Scalable Full-Stack AI Applications
+• LLM Engineering
+• AI Agents & Autonomous Systems 
 </p>
 
 <p align="center">
@@ -72,6 +74,19 @@ I specialize in:
 • Landslide risk prediction  
 • Real-time simulated sensor data 
 
+## Open Source Contributions Dashboard (NSoC 2026)
+
+• 167+ Pull Requests merged across multiple repositories
+• Ranked among Top Contributors of NSoC 2026
+• Implemented features, bug fixes, documentation, and UI improvements
+• Worked on production-grade open-source projects
+
+## Self-Evolving Neural Networks (Research)
+
+• Exploring adaptive neural architectures capable of self-optimization
+• Researching continual learning and autonomous adaptation techniques
+• Focused on next-generation intelligent AI systems
+
 ---
 
 ## ✦ Tech Stack
@@ -84,28 +99,57 @@ I specialize in:
 
 # ✦ Leadership & Achievements
 
-•  **AI Domain Lead – ACM NMIET**  
-•  **Technical Lead – GDG NMIET**  
-•  **5× National Hackathon Finalist**  
-•  **Intel® Unnati Industrial Training Program 2025**  
-•  Mentored 50+ workshops & 500+ students  
-•  Preparing for Smart India Hackathon  
+• AI Domain Lead – ACM NMIET
+• Technical Lead – GDG NMIET
+• Student Coordinator – ACES NMIET
+• Core Team Member and Founding Team Member – Falcons Community
+• Intel® Unnati Industrial Training Program 2025
+• Faculty Development Program – Deep Learning & NLP on Modern Intel Architecture
+• Contributor – GirlScript Summer of Code (GSSoC) 2026
+• Contributor – Nexus Spring of Code (NSoC) 2026
+• Contributor – Social Summer of Code (SSoC) 2026
+• 50+ Hackathons Participated
+• 5× National Hackathon Finalist
+• Organized & Mentored 50+ Technical Workshops
+• Mentored 500+ Students in AI, ML, GenAI & Development
+• Delivered AI, RAG, Agentic AI & Open Source Technical Sessions
+• Research Interest: Self-Evolving Neural Networks & Adaptive AI Systems
 
-## 🏆 Open Source Achievements
+## 🏆 Open Source Achievements ##
 
-### Nexus Spring of Code (NSoC) 2026
-- 🏅 Ranked #17 among 1500+ contributors
-- 🔥 167 Pull Requests Merged
-- ⭐ 1,426 Contribution Points
-- 🚀 Contributed across multiple open-source projects during the 60-day sprint
+## Nexus Spring of Code (NSoC) 2026
+🏅 Ranked #17 among 1500+ Contributors
+🔥 167 Pull Requests Merged
+⭐ 1,426 Contribution Points
+🚀 Contributed across multiple repositories during the 60-Day Sprint
+📈 Top Open Source Contributor
 
+## GirlScript Summer of Code (GSSoC) 2026 ##
+🚀 Selected as Contributor
+🔹 Open Source Track
+🔹 AI Agents Track
+🤝 Contributing to Real-World Open Source & AI Projects
+
+
+✦ Research Interests
+
+• Agentic AI
+• Hybrid Retrieval-Augmented Generation (RAG)
+• Multimodal AI Systems
+• Self-Evolving Neural Networks
+• Generative AI & LLM Engineering
+• AI Agents & Autonomous Systems
+• Deep Learning
+• Natural Language Processing
+• Computer Vision
+• MLOps & Scalable AI Infrastructure
 
 ---
 
 ## ✦ GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SujalKamate&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="[https://github-profile-trophy.vercel.app/?username=SujalKamate&theme=algolia&no-frame=true&row=1&column=6](https://github-trophies.vercel.app/?username=SujalKamate&theme=gruvbox&no-frame=true&no-bg=true)"/>
 </p>
 
 ---
