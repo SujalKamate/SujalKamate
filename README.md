@@ -146,10 +146,10 @@ I specialize in:
 
 ---
 
-## ✦ GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="[https://github-profile-trophy.vercel.app/?username=SujalKamate&theme=algolia&no-frame=true&row=1&column=6](https://github-trophies.vercel.app/?username=SujalKamate&theme=gruvbox&no-frame=true&no-bg=true)"/>
+<img src="https://github-trophies.vercel.app/?username=SujalKamate&theme=gruvbox&no-frame=true&no-bg=true"/>
 </p>
 
 ---
