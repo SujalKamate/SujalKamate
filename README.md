@@ -91,6 +91,14 @@ I specialize in:
 •  Mentored 50+ workshops & 500+ students  
 •  Preparing for Smart India Hackathon  
 
+## 🏆 Open Source Achievements
+
+### Nexus Spring of Code (NSoC) 2026
+- 🏅 Ranked #17 among 1500+ contributors
+- 🔥 167 Pull Requests Merged
+- ⭐ 1,426 Contribution Points
+- 🚀 Contributed across multiple open-source projects during the 60-day sprint
+
 
 ---
 
