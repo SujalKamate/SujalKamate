@@ -146,13 +146,6 @@ I specialize in:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-trophies.vercel.app/?username=SujalKamate&theme=gruvbox&no-frame=true&no-bg=true"/>
-</p>
-
----
 
 ## ✦ GitHub Analytics
 
