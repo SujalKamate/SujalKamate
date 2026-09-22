@@ -99,15 +99,16 @@ I specialize in:
 
 # ✦ Leadership & Achievements
 
-• AI Domain Lead – ACM NMIET
-• Technical Lead – GDG NMIET
-• Student Coordinator – ACES NMIET
+• Vice President – ACM NMIET  (Former Technical Lead)
+• Mentor – GDG NMIET (Former Technical Lead)
+• Technical Lead – ACES NMIET   (Former Student Coordinator) 
 • Core Team Member and Founding Team Member – Falcons Community
 • Intel® Unnati Industrial Training Program 2025
 • Faculty Development Program – Deep Learning & NLP on Modern Intel Architecture
 • Contributor – GirlScript Summer of Code (GSSoC) 2026
 • Contributor – Nexus Spring of Code (NSoC) 2026
 • Contributor – Social Summer of Code (SSoC) 2026
+• Contributor – Elite Summer of Code (ESoC) 2026
 • 50+ Hackathons Participated
 • 5× National Hackathon Finalist
 • Organized & Mentored 50+ Technical Workshops
@@ -126,6 +127,18 @@ I specialize in:
 
 ## GirlScript Summer of Code (GSSoC) 2026 ##
 🚀 Selected as Contributor
+🔹 Open Source Track
+🔹 AI Agents Track
+🤝 Contributing to Real-World Open Source & AI Projects
+
+## Social Summer of Code (SSoC) 2026 ##
+🚀 Selected as Contributor
+🔹 Open Source Track
+🔹 AI Agents Track
+🤝 Contributing to Real-World Open Source & AI Projects
+
+## Elite  Summer of Code (ESoC) 2026 ##
+🚀 Selected as Contributor and under Top 50 Contributors 
 🔹 Open Source Track
 🔹 AI Agents Track
 🤝 Contributing to Real-World Open Source & AI Projects
